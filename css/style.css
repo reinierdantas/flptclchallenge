@@ -25,10 +25,10 @@ header{
     justify-content: space-between;
 }
 .logo{
-   padding: 40px 0px 0px 80px;
+   padding: 60px 0px 0px 80px;
 }
 .menu-nav{
-    padding: 60px 80px 0px 40px;
+    padding: 80px 80px 0px 40px;
 }
 .menu-nav ul{
     display: flex;
@@ -118,6 +118,7 @@ header{
     max-width: 400px;
     background: #ffffff;
     padding: 30px;
+    margin-top: 20px;
     box-shadow: 0.5px 0.5px 0.5px 0.5px rgba(191, 191, 191,0.2);
 }
 .quote h4{
@@ -141,7 +142,7 @@ header{
 .news{
     background: hsl(238, 22%, 44%);
     color: #fff;
-    padding: 70px;
+    padding:  100px 70px;
 }
 .news-info{
     width: 510px;
@@ -153,7 +154,7 @@ header{
 }
 .newsletter form input{
     display: block;
-    padding: 10px;
+    padding: 15px;
     width: 450px;
     max-width: 100%;
     border-radius: 5px;
