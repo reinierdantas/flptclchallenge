@@ -175,6 +175,10 @@ footer{
     background: hsl(243, 87%, 12%);
     padding: 70px;
 }
+.footer-logo{
+    width: 150px;
+    filter: brightness(0) invert(1);
+}
 .contact{
     display: flex;
     flex-wrap: wrap;
